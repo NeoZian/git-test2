@@ -1,0 +1,7 @@
+git//
+ -- download git-scm
+---------------------
+$ git --version
+$ git config --global user.name "salman"
+$ git config --global user.email 123123.sh14@gmail.com
+$ git config --list
